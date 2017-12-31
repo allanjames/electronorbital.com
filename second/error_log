@@ -1,0 +1,195 @@
+[03-Dec-2016 22:21:50 America/Denver] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 5
+[03-Dec-2016 22:21:50 America/Denver] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 5
+[03-Dec-2016 22:21:50 America/Denver] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:21:50 America/Denver] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:21:52 America/Denver] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 5
+[03-Dec-2016 22:21:52 America/Denver] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 5
+[03-Dec-2016 22:21:52 America/Denver] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:21:52 America/Denver] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:22:46 America/Denver] PHP Warning:  include_once(./header.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 5
+[03-Dec-2016 22:22:46 America/Denver] PHP Warning:  include_once(): Failed opening './header.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 5
+[03-Dec-2016 22:22:46 America/Denver] PHP Warning:  include_once(./footer.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:22:46 America/Denver] PHP Warning:  include_once(): Failed opening './footer.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:23:08 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:23:08 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:23:08 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:23:08 America/Denver] PHP Warning:  include_once(./footer.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:23:08 America/Denver] PHP Warning:  include_once(): Failed opening './footer.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 13
+[03-Dec-2016 22:25:54 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:25:54 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:25:54 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:26:34 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:26:34 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:26:34 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:26:34 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:29:04 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:29:04 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:29:04 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:29:22 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:29:22 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:29:22 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:29:38 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:29:38 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:29:38 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:30:18 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:30:18 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:30:18 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:30:18 America/Denver] PHP Warning:  Illegal string offset 'words' in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:32:05 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:32:05 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:32:05 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:32:43 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:32:43 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:32:43 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:32:43 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:33:05 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:33:05 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:33:05 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:33:26 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:33:26 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:33:26 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:34:34 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:35:06 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:35:21 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:35:21 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:35:21 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:35:38 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:35:38 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:35:38 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:35:38 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:35:49 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:35:49 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:35:49 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:35:49 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:36:37 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:36:37 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:36:37 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:37:15 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:37:15 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:37:15 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:37:15 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/electut8/public_html/second/datatest.php on line 12
+[03-Dec-2016 22:37:44 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:37:44 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:37:44 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:37:44 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/electut8/public_html/second/datatest.php on line 12
+[03-Dec-2016 22:38:26 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:38:26 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:38:26 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:38:30 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:38:30 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:38:30 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:38:51 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:38:51 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:38:51 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:39:26 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:39:26 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:39:26 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:39:53 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:39:53 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:39:53 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:40:36 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:40:36 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:40:36 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:43:33 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:43:33 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:43:33 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:43:37 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:43:37 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:43:37 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:44:05 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:44:05 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:44:05 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:45:06 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:45:06 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:45:06 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:45:44 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:45:44 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:45:44 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:46:01 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:46:01 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:46:01 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:48:40 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:48:40 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:48:40 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:48:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/electut8/public_html/second/datatest.php on line 11
+[03-Dec-2016 22:49:43 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:49:43 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:49:43 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:50:17 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:50:17 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:50:17 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:50:34 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:50:34 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:50:34 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:50:59 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:50:59 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:50:59 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[03-Dec-2016 22:51:51 America/Denver] PHP Notice:  Undefined variable: page_title in /home4/electut8/public_html/header.php on line 38
+[03-Dec-2016 22:51:51 America/Denver] PHP Notice:  Undefined variable: title in /home4/electut8/public_html/header.php on line 39
+[03-Dec-2016 22:51:51 America/Denver] PHP Notice:  Undefined variable: description in /home4/electut8/public_html/header.php on line 44
+[02-Jan-2017 09:50:36 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 23
+[02-Jan-2017 09:50:36 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 23
+[02-Jan-2017 09:50:36 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 23
+[02-Jan-2017 09:50:36 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 24
+[02-Jan-2017 09:53:06 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 25
+[02-Jan-2017 09:53:06 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 25
+[02-Jan-2017 09:53:06 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 25
+[02-Jan-2017 09:53:06 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:54:11 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:54:11 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:54:11 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:54:11 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 27
+[02-Jan-2017 09:55:59 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:55:59 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:55:59 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:55:59 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 27
+[02-Jan-2017 09:55:59 America/Denver] PHP Notice:  Undefined variable: db in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:55:59 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:11 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:11 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:11 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:11 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 27
+[02-Jan-2017 09:58:11 America/Denver] PHP Notice:  Undefined variable: db in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:11 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:23 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:23 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:23 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:23 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 27
+[02-Jan-2017 09:58:23 America/Denver] PHP Notice:  Undefined variable: db in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:23 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:30 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:30 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:30 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:30 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 27
+[02-Jan-2017 09:58:30 America/Denver] PHP Notice:  Undefined variable: db in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:30 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:33 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:33 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:33 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 26
+[02-Jan-2017 09:58:33 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 27
+[02-Jan-2017 09:58:33 America/Denver] PHP Notice:  Undefined variable: db in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 09:58:33 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home4/electut8/public_html/second/user-read.php on line 29
+[02-Jan-2017 10:00:43 America/Denver] PHP Notice:  Use of undefined constant F - assumed 'F' in /home4/electut8/public_html/second/user-read.php on line 24
+[02-Jan-2017 10:00:43 America/Denver] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home4/electut8/public_html/second/user-read.php on line 24
+[02-Jan-2017 10:00:43 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/electut8/public_html/second/user-read.php on line 24
+[02-Jan-2017 10:00:43 America/Denver] PHP Notice:  Undefined index: host_name in /home4/electut8/public_html/second/user-read.php on line 25
+[05-Jan-2017 20:35:24 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:35:27 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:39:08 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:39:09 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:39:10 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:39:11 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:39:13 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:39:28 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:41:00 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[05-Jan-2017 20:43:04 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[06-Jan-2017 08:56:01 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[06-Jan-2017 08:58:31 America/Denver] PHP Notice:  Undefined variable: array in /home4/electut8/public_html/second/report.php on line 7
+[06-Jan-2017 11:01:27 America/Denver] PHP Notice:  Array to string conversion in /home4/electut8/public_html/second/report.php on line 8
+[29-Jan-2017 19:48:44 America/Denver] PHP Warning:  include(classes/page.php): failed to open stream: No such file or directory in /home4/electut8/public_html/second/datatest.php on line 9
+[29-Jan-2017 19:48:44 America/Denver] PHP Warning:  include(): Failed opening 'classes/page.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/electut8/public_html/second/datatest.php on line 9
+[29-Jan-2017 19:48:44 America/Denver] PHP Fatal error:  Class 'SitePage' not found in /home4/electut8/public_html/second/datatest.php on line 10
+[09-Sep-2017 02:51:12 America/Denver] PHP Notice:  Undefined variable: insertion in /home4/electut8/public_html/track-user.php on line 28
+[09-Sep-2017 02:51:12 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/electut8/public_html/track-user.php on line 28
+[11-Oct-2017 04:10:00 America/Denver] PHP Notice:  Undefined variable: insertion in /home4/electut8/public_html/track-user.php on line 28
+[11-Oct-2017 04:10:00 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/electut8/public_html/track-user.php on line 28

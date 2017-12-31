@@ -1,0 +1,201 @@
+{"words":[
+	{	
+		"english": "person",
+		"chinese":  "人",
+		"japanese":  "人",
+		"korean": "사람"
+			
+	},
+	{
+		"english": "land",
+		"chinese":  "土地",
+		"japanese":  "土地",
+		"korean": "땅"
+	},	
+	{
+		"english": "water",
+		"chinese":  "水",
+		"japanese":  "水",
+		"korean": "물"
+	},
+	{
+		"english": "diamond",
+		"chinese":  "鑽石",
+		"japanese":  "ダイヤモンド",
+		"korean": "다이아몬드"
+	},
+	{
+		"english": "house",
+		"chinese":  "房子",
+		"japanese":  "家",
+		"korean": "집"
+	},
+	{
+		"english": "family",
+		"chinese":  "家庭",
+		"japanese":  "家族",
+		"korean": "가족"
+	},
+	{
+		"english": "government",
+		"chinese":  "政府",
+		"japanese":  "政府",
+		"korean": "정부"
+	},
+	{
+		"english": "rice",
+		"chinese":  "飯",
+		"japanese":  "米",
+		"korean": "쌀"
+	},
+	{
+		"english": "beef",
+		"chinese":  "牛肉",
+		"japanese":  "牛肉",
+		"korean": "쇠고기"
+	},
+	{
+		"english": "fish",
+		"chinese":  "魚",
+		"japanese":  "魚",
+		"korean": "물고기"
+	},
+	{
+		"english": "chicken",
+		"chinese":  "雞",
+		"japanese":  "チキン",
+		"korean": "닭"
+	},
+	{
+		"english": "victory",
+		"chinese":  "勝利",
+		"japanese":  "勝利",
+		"korean": "승리"
+	},
+	{
+		"english": "military",
+		"chinese": "軍事",
+		"japanese": "軍事的",
+		"korean": "군"
+	},
+	{
+		"english": "sugar",
+		"chinese": "糖",
+		"japanese": "砂糖",
+		"korean": "설탕"
+	},
+	{
+		"english": "salt",
+		"chinese": "鹽",
+		"japanese": "塩",
+		"korean": "소금"
+	},
+	{
+		"english": "circuit",
+		"chinese": "線路",
+		"japanese": "回路",
+		"korean": "회로"
+	},
+	{
+		"english": "semiconductor",
+		"chinese": "半導體",
+		"japanese": "半導体",
+		"korean": "반도체"
+	},
+	{
+		"english": "platinum",
+		"chinese": "鉑金",
+		"japanese": "プラチナ",
+		"korean": "백금"
+	},
+	{
+		"english": "voltage",
+		"chinese": "電壓",
+		"japanese": "電圧",
+		"korean": "전압"
+	},
+	{
+		"english": "petroleum",
+		"chinese": "石油",
+		"japanese": "石油",
+		"korean": "석유"
+	},
+	{
+		"english": "angle",
+		"chinese": "角",
+		"japanese": "角度",
+		"korean": "각도"
+	},
+	{
+		"english": "probability",
+		"chinese": "可能性",
+		"japanese": "確率",
+		"korean": "개연성"
+	},
+	{
+		"english": "travel",
+		"chinese": "旅遊",
+		"japanese": "旅行",
+		"korean": "여행"
+	},
+	{
+		"english": "peninsula",
+		"chinese": "半島",
+		"japanese": "半島",
+		"korean": "반도"
+	},
+	{
+		"english": "island",
+		"chinese": "島",
+		"japanese": "島",
+		"korean": "섬"
+	},
+	{
+		"english": "ocean",
+		"chinese": "海洋",
+		"japanese": "海",
+		"korean": "대양"
+	},
+	{
+		"english": "binary",
+		"chinese": "二進制",
+		"japanese": "バイナリ",
+		"korean": "이진"
+	},
+	{
+		"english": "north",
+		"chinese": "北",
+		"japanese": "北",
+		"korean": "북쪽"
+	},
+	{
+		"english": "east",
+		"chinese": "東",
+		"japanese": "東",
+		"korean": "동쪽"
+	},
+	{
+		"english": "west",
+		"chinese": "西",
+		"japanese": "西",
+		"korean": "서쪽"
+	},
+	{
+		"english": "south",
+		"chinese": "南",
+		"japanese": "南",
+		"korean": "남쪽"
+	},
+	{
+		"english": "think",
+		"chinese": "想",
+		"japanese": "思う",
+		"korean": "생각"
+	},
+	{
+		"english": "code",
+		"chinese": "代碼",
+		"japanese": "コード",
+		"korean": "코드"
+	}
+	]}
